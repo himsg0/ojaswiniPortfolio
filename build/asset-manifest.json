@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51650580.css",
+    "main.js": "/static/js/main.db896dd1.js",
+    "static/media/hoc.png": "/static/media/hoc.5c2f611bff14441b0a63.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.352ab264fef4b337dab5.png",
+    "static/media/Ecard.png": "/static/media/Ecard.7b80d2f3b7a450cd24b3.png",
+    "static/media/sidebar.png": "/static/media/sidebar.a57db38ca031ac93fd94.png",
+    "static/media/musicapp.png": "/static/media/musicapp.bdb8a60808d240c84171.png",
+    "static/media/resume.pdf": "/static/media/resume.035709a3f5c151c2a0a7.pdf",
+    "static/media/press3.png": "/static/media/press3.3837462ff03bb18eabc9.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/press1.png": "/static/media/press1.0388c2169ecac43c7a65.png",
+    "static/media/press2.png": "/static/media/press2.366d5031d17c4f339732.png",
+    "static/media/Shopify.png": "/static/media/Shopify.4231cb3f9e36381eef91.png",
+    "static/media/boy.png": "/static/media/boy.0a9058b7983dc3b2138d.png",
+    "static/media/amazon.png": "/static/media/amazon.09803f04d9461c220603.png",
+    "static/media/fiverr.png": "/static/media/fiverr.b0d143f07e30001dc7c2.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.51650580.css.map": "/static/css/main.51650580.css.map",
+    "main.db896dd1.js.map": "/static/js/main.db896dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51650580.css",
+    "static/js/main.db896dd1.js"
+  ]
+}
